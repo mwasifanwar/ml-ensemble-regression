@@ -56,7 +56,7 @@ DataLoader   Preprocessor   ModelTrainer   Evaluator   Visualizer</code></pre>
   </ul>
 
   <h3>Quick Installation</h3>
-  <pre><code>git clone https://github.com/yourusername/ML-Ensemble-Regression-Studio
+  <pre><code>git clone https://github.com/mwasifanwar/ml-ensemble-regression
 cd ML-Ensemble-Regression-Studio
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
@@ -213,8 +213,7 @@ class ModelConfig:
 </p>
 
 <p align="center">
-  <em>⭐ *"A machine that can see the road is not just detecting pixels —  
-> it’s learning to understand purpose, motion, and possibility."*</em>  
+  <em>⭐ *"Transforming raw data into predictive insights through elegant machine learning architecture."*</em>  
 </p>
 
 <br>
