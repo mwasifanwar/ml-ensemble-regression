@@ -196,7 +196,7 @@ class ModelConfig:
 <h2 align="center">✨ Author</h2>
 
 <p align="center">
-  <b>Saad Abdur Razzaq</b><br>
+  <b>M Wasif Anwar</b><br>
   <i>AI/ML Engineer | Effixly AI</i>
 </p>
 
